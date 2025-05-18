@@ -1,0 +1,19 @@
+
+pattern:
+  scene_postfix: "Recogization"
+  task: "obsearving the image and determine whether it could be classified as one of the candidate categorie "
+  level: "Pattern"
+  definition: "identifying and localizing objects that exhibit specific structural, repetitive, or contextual patterns"
+  cate: []
+detail:
+  scene_postfix: "DefeatIdentification"
+  task: "obsearving the image and determine whether it could be classified as one of the candidate categorie  "
+  level: "Detail"
+  definition: "Fine-grained visual features appearing on the surface of objects that are independent"
+  cate: []
+element:
+  scene_postfix: "StatusRecogization"
+  task: "obsearving the image and determine whether it could be classified as one of the candidate categorie  "
+  level: "Element"
+  definition: "identifying high-level visual features of the certain object "
+  cate: []
