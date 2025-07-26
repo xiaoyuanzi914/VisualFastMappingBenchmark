@@ -4,8 +4,13 @@ The VisualFastMapping Benchmark is an evaluation dataset designed to assess a mo
 
 ## Quick Start
 ### Environment Setup
+This project requires Python version 3.10.10. You can check your Python version by running:
 ```bash
-# python: 3.10.10
+python3 --version
+```
+
+To get started, first install the required dependencies:
+```bash
 pip3 install -r requirements.txt
 ```
 
