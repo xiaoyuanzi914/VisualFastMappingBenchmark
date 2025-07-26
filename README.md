@@ -1,6 +1,6 @@
 ## VisualFastMappingBenchmark
 The VisualFastMapping Benchmark is an evaluation dataset designed to assess a model's ability to quickly learn and form new visual concepts from very few examples, by leveraging its existing experience and knowledge.
-https://cdn-uploads.huggingface.co/production/uploads/67c7bcfdfbf67e415602cff7/W3DrX9pcPN3x5M9XI_O61.png
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/67c7bcfdfbf67e415602cff7/W3DrX9pcPN3x5M9XI_O61.png)
 
 ## Quick Start
 Step 1: Filter data by diversity and difficulty
