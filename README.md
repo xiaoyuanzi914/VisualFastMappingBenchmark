@@ -24,19 +24,16 @@ sh stage2_imgprocesser_all.sh
 sh stage2_template_all.sh
 ```
 
-Step 3: 
+Step 3: Analyze the mechanism and cause localization of visual fast mapping ability
 ```bash
 # Test scripts to quickly determine whether the code is running smoothly
 sh stage3_demo.sh
-
-# Start 
-sh stage3_preexp.sh
 
 # Start
 sh stage3_template_all.sh
 ```
 
 ## License
-The dataset is distributed under the CC-BY-NC-SA 4.0 license.
+The code is distributed under the CC-BY-NC-SA 4.0 license.
 
 [changelog]: http://icode.baidu.com/repos/baidu_temp/acgbenchmark/vlmvisualicl/blob/master:CHANGELOG.md
