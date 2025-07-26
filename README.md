@@ -3,6 +3,12 @@ The VisualFastMapping Benchmark is an evaluation dataset designed to assess a mo
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/67c7bcfdfbf67e415602cff7/W3DrX9pcPN3x5M9XI_O61.png)
 
 ## Quick Start
+### Environment Setup
+```bash
+pip3 install -r requirements.txt
+```
+
+### Start Running
 Step 1: Use various large models to predict the answer
 ```bash
 # Test scripts to quickly determine whether the code is running smoothly
