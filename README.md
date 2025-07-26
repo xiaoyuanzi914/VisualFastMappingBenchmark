@@ -36,7 +36,7 @@ Step 3: Analyze the mechanism and cause localization of visual fast mapping abil
 # Test scripts to quickly determine whether the code is running smoothly
 sh stage3_demo.sh
 
-# Start
+# Start analyzing
 sh stage3_template_all.sh
 ```
 
