@@ -3,20 +3,38 @@ The VisualFastMapping Benchmark is an evaluation dataset designed to assess a mo
 ![image/png](https://cdn-uploads.huggingface.co/production/uploads/67c7bcfdfbf67e415602cff7/W3DrX9pcPN3x5M9XI_O61.png)
 
 ## Quick Start
-Step 1: Filter data by diversity and difficulty
+Step 1: Use various large models to predict the answer
 ```bash
 # Test scripts to quickly determine whether the code is running smoothly
 sh stage1_demo.sh
 
-# Start filtering data
-sh stage1_template.sh
+# Start predict the answer
+sh stage1_template_all.sh
 ```
 
-Step 2: 
-Step 3: 
+Step 2: Filter data by diversity and difficulty
+```bash
+# Test scripts to quickly determine whether the code is running smoothly
+sh stage2_demo.sh
 
-## 测试
-如何执行自动化测试
+# Generate an image with a mask
+sh stage2_imgprocesser_all.sh
+
+# Start filtering data
+sh stage2_template_all.sh
+```
+
+Step 3: 
+```bash
+# Test scripts to quickly determine whether the code is running smoothly
+sh stage3_demo.sh
+
+# Start 
+sh stage3_preexp.sh
+
+# Start
+sh stage3_template_all.sh
+```
 
 ## License
 The dataset is distributed under the CC-BY-NC-SA 4.0 license.
