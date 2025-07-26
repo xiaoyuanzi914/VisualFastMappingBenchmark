@@ -1,6 +1,6 @@
-Vlmvisualicl
+VisualFastMappingBenchmark
 ===
-关注图像理解任务的细粒度视觉信息fewshot能力的测评集
+The VisualFastMapping Benchmark is an evaluation dataset designed to assess a model's ability to quickly learn and form new visual concepts from very few examples, by leveraging its existing experience and knowledge.
 
 快速开始
 ---
